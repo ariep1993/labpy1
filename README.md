@@ -27,18 +27,16 @@ git --version
 
 Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan syntax berikut :
 git config --global user.name "Masukkan Nama Anda disini" git config --global user.email "Masukkan Email Anda disini"
-![441d8a6b-5f20-4c71-88d5-a12f117b78be](https://user-images.githubusercontent.com/115473865/196015166-0ae97b44-166a-4c95-a340-d06fc752c13b.jpg)
 
-
-Silahkan Buat akun di GitHub , seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
-
+![441d8a6b-5f20-4c71-88d5-a12f117b78be](https://user-images.githubusercontent.com/115473865/196015350-abdaedcc-43b8-4676-a5aa-fd1bee0ca525.jpg)
 
 Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
 
 git config --global user.name git config --global user.email
 
-![04396d73-ec7e-431b-8b8c-dda9025a6c5b](https://user-images.githubusercontent.com/115473865/196014886-fa222b5c-4b4c-411b-8b9c-962e21a5953c.jpg)
+![04396d73-ec7e-431b-8b8c-dda9025a6c5b](https://user-images.githubusercontent.com/115473865/196015381-7a27cb43-28eb-4de3-89a0-21cf286f64ac.jpg)
+
 Silahkan Buat akun di GitHub , seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
 
-![a93d9367-9d74-4afe-8063-72abd35abf78](https://user-images.githubusercontent.com/115473865/196015209-3f78c36e-f0bc-47df-8085-22c879a22e8a.jpg)
+![a5c4e3f4-cfa6-4c81-b729-01106b1e4efe](https://user-images.githubusercontent.com/115473865/196015444-9773c2bd-179d-4c9d-ae52-57293cd5ae7e.jpg)
 
