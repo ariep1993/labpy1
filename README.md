@@ -12,9 +12,11 @@ Nim : 312210077
 Kelas : TI.22.B1
 
 Langkah-Langkah Penggunaan Git
-Download Git terlebih dahulu, dengan link berikut ini : Click Here Gambar Git SCM
+Download Git terlebih dahulu, dengan link berikut ini : ![image](https://user-images.githubusercontent.com/115473865/196014793-e5d768dc-3395-4b11-95d9-505d829e39f3.png)
 
-Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : Git Installation Guide Gambar Installation Guide
+
+
+Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : 
 
 Setelah proses installasi selesai, silahkan buka software GitBash pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :
 
