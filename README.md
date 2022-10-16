@@ -85,5 +85,10 @@ Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git 
 
 ![a1296247-fb01-4caa-9032-5f0b246a264b](https://user-images.githubusercontent.com/115473865/196020188-d9aa5b1d-a465-4208-898d-0db26fb0abce.jpg)
 
+Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
+
+![eae8bf12-2ffe-42b4-907b-6d5606e932ea](https://user-images.githubusercontent.com/115473865/196021249-83ea6b73-24ca-456e-89d6-676bee0f8eab.jpg)
+
+
 
 
