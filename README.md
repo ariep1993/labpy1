@@ -11,7 +11,7 @@ Nim : 312210077
 
 Kelas : TI.22.B1
 
-Langkah-Langkah Penggunaan Git
+# Langkah-Langkah Penggunaan Git
 Download Git terlebih dahulu, dengan link berikut ini : ![image](https://user-images.githubusercontent.com/115473865/196014793-e5d768dc-3395-4b11-95d9-505d829e39f3.png)
 
 
@@ -30,8 +30,12 @@ git config --global user.name "Masukkan Nama Anda disini" git config --global us
 
 ![441d8a6b-5f20-4c71-88d5-a12f117b78be](https://user-images.githubusercontent.com/115473865/196014869-27ca39c2-6934-42c2-9eb4-91673d64f66d.jpg)
 
+Silahkan Buat akun di GitHub , seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
+
+
 Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
 
 git config --global user.name git config --global user.email
 
 ![04396d73-ec7e-431b-8b8c-dda9025a6c5b](https://user-images.githubusercontent.com/115473865/196014886-fa222b5c-4b4c-411b-8b9c-962e21a5953c.jpg)
+![image](https://user-images.githubusercontent.com/115473865/196014935-128f3028-6e76-4e95-8e92-e0c8006ab19e.png)
