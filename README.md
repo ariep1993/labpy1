@@ -50,6 +50,9 @@ Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository y
 
 ![d65a2aa4-4488-42f3-99bf-5a44a2bed4b8](https://user-images.githubusercontent.com/115473865/196016631-37266192-9ee4-477c-8cba-04f6bbabd5c9.jpg)
 
+Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 
+![910bafc1-3e11-44d6-9cf6-305a6e7750a8](https://user-images.githubusercontent.com/115473865/196017491-8301d25b-bfc9-4afb-b86f-a1feac68a738.jpg)
+![871e43a2-a525-48b2-a8ac-178f5f58e39d](https://user-images.githubusercontent.com/115473865/196017594-31f62ffd-a4c2-4ee0-ae6d-cca5bf09dabc.jpg)
 
 
