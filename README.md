@@ -47,3 +47,9 @@ Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama sem
 Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda
 Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
 Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan
+
+![d65a2aa4-4488-42f3-99bf-5a44a2bed4b8](https://user-images.githubusercontent.com/115473865/196016631-37266192-9ee4-477c-8cba-04f6bbabd5c9.jpg)
+
+
+
+
