@@ -40,3 +40,10 @@ Silahkan Buat akun di GitHub , seperti contoh dibawah ini. Dan lakukan verifikas
 
 ![a5c4e3f4-cfa6-4c81-b729-01106b1e4efe](https://user-images.githubusercontent.com/115473865/196015444-9773c2bd-179d-4c9d-ae52-57293cd5ae7e.jpg)
 
+Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat Repository seperti gamabr dibawah ini. Noted :
+Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository Latihan-VCS)
+Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)
+Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)
+Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda
+Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
+Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan
