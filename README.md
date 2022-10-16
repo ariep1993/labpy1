@@ -16,9 +16,22 @@ Download Git terlebih dahulu, dengan link berikut ini : ![image](https://user-im
 
 
 
-Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : 
+Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : ![image](https://user-images.githubusercontent.com/115473865/196014818-f4890763-6893-4981-8305-09be8b89b97e.png)
+
 
 Setelah proses installasi selesai, silahkan buka software GitBash pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :
 
 git --version
 
+![2f4b30e1-6ce6-4f11-a1b2-8fc14c4cbf1e](https://user-images.githubusercontent.com/115473865/196014837-7854b32c-efe7-4f5f-9b19-ec4681cc4ee9.jpg)
+
+Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan syntax berikut :
+git config --global user.name "Masukkan Nama Anda disini" git config --global user.email "Masukkan Email Anda disini"
+
+![441d8a6b-5f20-4c71-88d5-a12f117b78be](https://user-images.githubusercontent.com/115473865/196014869-27ca39c2-6934-42c2-9eb4-91673d64f66d.jpg)
+
+Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
+
+git config --global user.name git config --global user.email
+
+![04396d73-ec7e-431b-8b8c-dda9025a6c5b](https://user-images.githubusercontent.com/115473865/196014886-fa222b5c-4b4c-411b-8b9c-962e21a5953c.jpg)
