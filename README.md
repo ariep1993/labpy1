@@ -74,6 +74,16 @@ Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (maste
 Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
 git add
 
+![9ec71818-56dc-4648-b18e-00577ce919cd](https://user-images.githubusercontent.com/115473865/196020035-df22ab3d-c8c4-464d-bdba-c27ca54be13d.jpg)
+
+Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
+git commit "Update README.md"
+
+![953c159c-4488-4281-8873-b116aff943eb](https://user-images.githubusercontent.com/115473865/196020147-e531750b-9a9a-4c4d-86d8-b98e6e6aa865.jpg)
+
+Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
+
+![a1296247-fb01-4caa-9032-5f0b246a264b](https://user-images.githubusercontent.com/115473865/196020188-d9aa5b1d-a465-4208-898d-0db26fb0abce.jpg)
 
 
 
