@@ -53,6 +53,27 @@ Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository y
 Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 
 ![910bafc1-3e11-44d6-9cf6-305a6e7750a8](https://user-images.githubusercontent.com/115473865/196017491-8301d25b-bfc9-4afb-b86f-a1feac68a738.jpg)
+
+Proses pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk me-remote repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link URL git kita di Github, dengan cara tekan tombol Code lalu klik Copy.
+
 ![871e43a2-a525-48b2-a8ac-178f5f58e39d](https://user-images.githubusercontent.com/115473865/196017594-31f62ffd-a4c2-4ee0-ae6d-cca5bf09dabc.jpg)
+
+Setelah Link URL git kita tercopy, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih Git Bash Here.
+
+![bb5efcfd-881f-481b-9e9f-8fb9a75152b1](https://user-images.githubusercontent.com/115473865/196017664-14d09b2d-85b0-4eec-bc83-e6f8ac4dec12.jpg)
+
+Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
+
+![761fd2f9-c7f4-473a-8b9b-443c4f2234a6](https://user-images.githubusercontent.com/115473865/196017725-07439c1b-b329-41da-aa4a-82bf9b720036.jpg)
+
+
+Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu Latihan-VCS-Garnish dengan mengetikkan syntax berikut :
+
+![1b85b7cf-b69d-417a-884c-4407a12a2862](https://user-images.githubusercontent.com/115473865/196017752-b9cb269e-acaa-4db4-ac0a-bf945351e489.jpg)
+
+Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
+git add
+
+
 
 
